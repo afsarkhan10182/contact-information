@@ -45,3 +45,9 @@ Add in package.json below line:
 
  The Application has Contacts,contact-add and contact-update component
  It is basically a crud operation.
+
+ Testing: Run ng test to launch karma tool
+
+ two spec file is added:
+ 1.app.component.spec.ts
+ 2.contact.spec.ts
