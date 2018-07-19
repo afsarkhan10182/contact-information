@@ -6,6 +6,8 @@ git clone https://github.com/afsarkhan10182/contact-information.git
 
 cd /contact-information
 
+npm install
+
 ng serve
 
 Here we need a api which we consuming to add/update/delete Contacts in our Application
